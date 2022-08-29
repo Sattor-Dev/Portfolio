@@ -16,4 +16,4 @@ This portfolio website was build using HTML, CSS and Javascript technologies.
 </div>
 
 
-<a href="https://sattoroff-s.netlify.app/" target="_blank">Visit Website!</a>
+<a href="https://sattoroff-s.netlify.app/"  target="_blank">Visit Website!</a>
